@@ -1,1 +1,1 @@
-# snailstore-release
+# 蜗牛商店
